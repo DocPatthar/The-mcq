@@ -1,0 +1,2442 @@
+
+#during acute radiation doseases is not observed the primary reaction:
++sepsis
+-vomiting
+-leukocytosis
+-headache
+-scin hyperemia
+
+#It is not used in the treatment of pneumonia in injured persons:
++therapeutic plasmaphoresis
+-antibiotic
+-immuAcute readiation sicknessorrector
+-vitamins
+-expectorants
+
+#What factor is not associated with the pathogenesis of poisoning:
++ventilation factor
+-the effect of toxic substances
+-CNC disorders
+-hypoxia
+-metabolic disorder
+
+#Which organs and systems are deeply damaged under the influence of ionized radiation
++has a high mitotic index
+-subtractive organs
+-hearing organs
+-mature cells of hemopoiesis
+-musculoskeletal system
+
+#Mixed radiation sickness does not occur in the acute phase:
++hepatosplenomegaly
+-hemorrhage
+-infection
+-anemia
+-leukopenia
+
+#It is not typical for the period of acute radiation sickness
++incubation period
+-primary reaction period
+-recovery period
+-a period of improvement
+-hidden period
+
+#The ability of the organism to recover after radiation does not depend on any factor
++which gender they belong to
+-the number of undamaged core cells
+-the amount of ionizing radiation
+-Pregnancy with cAcute readiation sicknessomitant damage
+-there are complications
+
+ #It is not used in the treatment of drooling syndrome:
++hemotransfusion
+-restores airway permeability and oxygen inhalation
+-reducing the hydrophilicity of the brain
+-Anti-sudorgi therapy
+-miamimetaboliks
+
+#Not observed in carbon dioxide poisoning:
++stroke
+-coma
+-collapse
+-sepsis
+-nausea and vomiting
+
+#What is observed first in carbon monoxide poisoning?
++hypoxic syndrome
+-splenomegaly
+-hemorrhagic syndrome
+-embolism
+-agranulocytosis
+
+#What is not included in the clinical presentation of hemorrhagic syndrome in Acute radiation sickness
++facial cyanotic color
+-bleeding gums
+-nosebleed
+-uterine bleeding
+-scin burns
+
+#Acute radiation sickness does not include complications that can be expected in the initial period:
++stroke
+-sepsis
+-pneumonia
+-bleeding from the digestive tract
+-bleeding from the uterus
+
+#Character of vomiting at the middle level of Acute radiation sickness
++2-3 times
+-1 time
+-can't stop
+-it doesn't
+-many times
+
+#Aids in pulmonary bleeding are not included:
++intravenous agemodez drip
+-calcichlor t/i
+-m/i vikasol 2.0
+-disinone
+-E-amiAcute readiation sicknessaproic acid
+
+#Does not apply to the pathogenesis of acute radiation sickness:
++metabolic alkalosis
+-destruction of the cell nucleus 
+-water radiolysis
+-electronic excitation of biomolecules
+-metabolism
+
+#Life-threatening situations do not include:
++intestinal spasm
+-acute vascular insufficiency
+-lung tumor
+-acute shortness of breath
+-acute poisoning
+
+#Not observed in chlorophos poisoning:
++blindness
+-headache
+-pneumonia
+-solevation
+-vomiting
+
+#It is not used in the correction of blood in the general circulation in shock:
++iron preparations
+-transfusion therapy
+-blood substitute protein preparations
+-gelatinol
+-hemodesis
+
+#What does the phrase "burning disease" mean?
++general disease of the body
+-specific organ disease
+-heart disease
+-lung senility
+-liver disease
+
+#Apricot preparations are used to treat asthma
++euphyllin and GKSs
+-α-adrenoblockers
+-H2-blockers
+-cardiac glycosides
+-calcium preparations
+
+#It is observed as a serious complication in 3rd and 4th degree burns
++pneomonia
+-brAcute readiation sicknesshiectasis
+-myocarditis
+-hepatitis
+-pyelonephritis
+
+#What is not observed in gunshot wounds:
++hepatolienal syndrome
+-shock
+-purulent resorptive fever
+-wound sepsis
+-losing weight from injury
+
+#Radiosensitivity of cells is directly proportional...
++to mitotic activity
+-to the degree of differentiation
+-to vacuolization
+-whether or not there are entries
+-toxogenic granularity
+
+#Characteristic of the peak period of acute radiation sickness:
++agranulocytosis
+-lymphocytosis
+-basophilia
+-eosinophilia
+-monocytosis
+
+#What is not observed in the peripheral blood during the peak period of acute radiation sickness
++leukocytosis
+-leucocytopenia
+-anemia
+-lymphopenia
+-thrombocytopenia
+
+#Dose of Aminazine
++2.5%-2ml
+-2.5%-20ml
+-2.5%-12ml
+-2%-20ml
+-2.5%-10ml
+
+#Changes in the mouth in mixed radiation scores are observed depending on how much radiation is received
++5 gray
+-1 gray
+-15 gray
+-20 gray
+-10 gray
+
+ #It is administered intravenously to eliminate acidosis
++500, 1000 ml sodium bicarbonate
+-glucose
+-hemodesis
+-riboxin
+-disol
+
+#What antidote is used for poisoning with barium and its salts
++30% magnesium sulfate solution
+-5% ammonium carbonate
+-5% nalorphine
+-1% sodium nitrate
+-10% calcite
+
+#What serum is sent to all burns
++anti-tetanus serum
+-anti-pertussis serum
+-anti-measles serum
+-anthrax serum
+-serum is not sent
+
+#Symptoms of anesthesia are counted
++all are correct
+-depression
+-darkening of the eyes
+-headache
+-tinnitus
+
+#Seen in first degree burns
++skin tightening
+-formation of bubbles
+-tissue necrosis
+-suppuration
+-blood transfusion
+
+#Where is first medical care provided
++on the battlefield
+-OmedB
+-PTP
+-in the hospital
+-special medical battalion
+
+#How is medical care provided?
++self and each other help
+-medical screening
+-special therapist help
+-specialized support
+-qualified medical assistance
+
+#Peculiarities of pulmonary hemorrhage in head injury
++bilateral blood transfusion
+-atelectasis
+-empyema
+-embolism
+-pneumonia
+
+#What is not prescribed in kidney diseases:
++folate acid inhibitors
+-antibiotics
+-uroseptics
+-desensitizing drugs
+-detoxifying drugs
+
+#Indicate the situation in which urgent resuscitation measures are required from kidney diseases
++acute renal failure and eclampsia
+-acute respiratory failure and pulmonary edema
+-acute liver failure
+-seizures
+-acute heart failure and myocardial infarction
+
+#Not used in the treatment of kidney damage:
++cytostatics
+-detoxifiers
+-hepatotropes
+-spasmolytics
+-paiRSillers
+
+#Hemopneumothorax is---….
++bleeding and air in the pleura
+-empyema
+-pleurisy
+-abscess
+-pneumothorax
+
+#Hemothoraxbu---….
++pleural hemorrhage
+-empyema
+-pleurisy
+-abscess
+-pneumothorax
+
+#Where are the wounded and sick in need of treatment sorted.
++battalion and separate battalion (OmedB) and hospitals
+-in a military field hospital
+-on the battlefield
+-cannot be sorted
+
+#What injuries are considered complications in field seizure syndrome:
++CNC damage
+-acute vascular disorders
+-hepatic coma
+-acute kidney failure
+-metabolic disorder
+
+#What type of anemia develops in injured people?
++posthemorrhagic
+-chronic iron deficiency
+-hypoplastic
+-sideropenic
+-hemolytic
+
+#What kind of heart damage is not observed in injured people:
++systemic carditis
+-endocarditis
+-pericarditis
+-myocarditis
+-myocardial dystrophy
+
+#It is not used in the treatment of pneumonia in the injured:
++folic acid
+-antibiotics
+-hemodesis
+-sulphocamphocaine
+-protein preparations
+
+#The main part of kidney damage in injured people is:
++nephritis (diffuse, triple)
+-urinary tract infection
+-uric acid chloride diathesis
+-hypernephroma
+-lupus nephritis
+
+#The main causes of injury in the injured do not include:
++leukopenia
+-cooling
+-anemia caused by injury
+-Malnutrition, hypovitaminosis
+-Violation of work of YuQT
+
+#What is not included in the number of common syndromes in injured people:
++agranulocytosis
+-shock
+-collapse
+-purulent resorptive fever
+-wound sepsis
+
+#Purulent diseases of the lungs in injured people are not associated with:
++agranulocytosis
+-infection of atelectasis
+-infection of the wound canal
+-foreign bodies in the lungs
+-banalpneumonia
+
+#A stroke can occur during the exposure of the fox:
++contusion
+-coma
+-agranulocytosis
+-splenomegaly
+-increased body temperature
+
+#In case of poisoning, it is not prescribed:
++mercaptopurine
+-antidote therapy
+-infusion rash
+-vitamins
+-cardiac preparations
+
+#Pneumonias are not observed in any injuries of the body;
++skin and mucous membrane injuries
+-chest and head
+-legs and arms
+-belly
+
+#Does not include urgent medical care
+X-ray examination and blood analysis
+-improve breathing
+-release of poisons absorbed into the body
+-regulate kidney function
+-restoring the activity of the central nervous system
+
+#Includes immediate medical care
++all are correct
+-improve breathing
+-regulation of blood circulation
+-release of poisons absorbed into the body
+-to regulate the activity of internal organs
+
+#Does not include immediate emergency medical care
+X-ray examination and blood analysis
+-regulation of blood circulation
+-release of poisons absorbed into the body
+-restoring the activity of the central nervous system
+-regulating liver function
+
+#It is observed in second degree burns
++formation of bubbles
+-tissue necrosis
+-skin redness
+-blood transfusion
+-suppuration
+
+#Some organs and systems are deeply damaged under the influence of ionized radiation
+There is a high mitotic type
+-subtractive organs
+-hearing organs
+-mature cells of hemopoiesis
+-musculoskeletal system
+
+#Which morphological change is not observed in the peripheral blood under the influence of ionizing radiation:
++morphological changes
+-nuclear download
+-cytoplasm and coulization
+-nuclear hypersegmentation
+-toxogenic granularity
+
+#Ionizing rays affect tissues
++directly and indirectly
+-does not affect
+-by oxidation
+-positive
+-negative
+
+#The degree of impact of ionizing rays depends
++to how many rays passed through the body
+-to beta particles
+-alpha particles
+-to cellular activity
+-sensitive tissues
+
+#What does the level of impact of ionizing rays depend on?
++to the amount of ionizing rays
+-to alpha particles
+-to cellular activity
+-to beta particles
+-sensitive tissues
+
+#It is used for the prevention of infectious complications during the advanced stage of the disease
++clofaran, stefozolin
+-calcichlor
+-panangin, potassium chloride
+-digoxin, strophanthin
+-riboxin, ATF
+
+#It is used for the prevention of infectious complications during the outbreak of the disease
++antistaphylococcal plasma and antistaphylococcal gammaglobulin
+-erythrocyte mass
+-freshly washed plasma
+-immunoglobulins
+-antihistamines
+
+#A bridge appears in combined radiation damage
++traumatic and burn shock
+-Bazedov's disease
+-diabetes
+-blast crisis
+-eczema
+
+#Bridges appear in combined radiation diseases:
++traumatic and burn shock
+-blast crisis
+-diabetes
+-eczema
+-Bazedov's disease
+
+#Combined damage does not occur at the peak
++hepatosplenomegaly
+-hemorrhage
+-infection
+-anemia
+-leukopenia
+
+#Not observed in complex radiation damage:
++ease of illness
+-"fill each other" syndrome
+-slowing down of regeneration processes
+-severity of the general condition
+-decrease of immunobiological resistance
+
+#Not observed in combined damage:
++relief
+-reduction of immunobiological resistance
+-slowing down of regeneration processes
+-overall weight
+-"overlap" syndrome
+
+#It plays a key role in the pathogenesis of complex radiation damage
++"complementing" syndrome
+-polyuria
+-splenomegaly
+-adaptation disorder
+-functional disorders of organs and tissues
+
+#The main role in the pathogenesis of combined radiation damage is:
++"complementing" syndrome
+-functional impairment of organs and tissues
+-splenomegaly
+-adaptation disorder
+-polyuria
+
+#Conditions for the appearance of radiotoxins in the blood
++oxidation of organic substances due to water radiolysis
+-food poisoning
+-mechanical damage to erythrocytes
+-from an infectious disease
+-heat resistant
+
+#Pathogenesis of the appearance of radiotoxins in the blood
++radiolysis of water in the tissue
+-food poisoning
+-mechanical damage to erythrocytes
+-thermal damage
+-from an infectious disease
+
+#Indicate the situation in which urgent resuscitation measures are required from vascular diseases
++acute vascular insufficiency anesthesia, collapse
+-seizures
+-acute liver failure
+-acute shortness of breath and pneumonia
+-acute heart failure and myocardial infarction
+
+#Not given to contusion patients
++antibiotics
+-drugs
+-aminasin
+-tranquilizers
+-sedatives
+
+#The main view of contusion
++sleep memory
+-leukopenia
+-cough
+-angina attacks
+-diuresis disorder
+
+#Not used in the treatment of contusion:
++cyclophosphane
+-glucose erythema
+-vitamins
+-diuretics
+-cardiac preparations
+
+#Crash syndrome is considered
++remote state
+-nephrotic syndrome
+-hepatolienal syndrome
+-neurotic syndrome
+
+#Burn disease is observed in the initial period
++shock state with central nervous system dysfunction
+-toxemic period
+-septic period
+-bone marrow damage
+-heart disease
+
+#How many periods of burn disease are observed
++4
+-3
+-2
+-5
+-1
+
+#Burn disease is observed during the septic period
++development of sepsis and infectious complications
+-central nervous system disorders
+-poisoning of the body from protein breakdown products
+-bone marrow damage
+-formation of bubbles
+
+#It is used to eliminate acidosis in burns
++lactasol, sodium bicarbonate
+-strophanthin, digoxin
+-furosemide, lazix
+-disol, trisol, reopoliglyukin
+-promedol, omnopon
+
+#Extinguish the fire and put a sterile bandage on the burned area
+-restore heart function
+-restore respiratory function
+-against shock
+-detoxification
+
+#In burn disease, it is observed in the biochemical analysis of blood due to kidney dysfunction
++hyperprotenuria
+-hypoglycemia
+-hyperproteinemia
+-hyperbilirubinemia
+-hyperglycemia
+
+#What changes occur in kidney function in burn disease
++acute kidney failure occurs
+-in the form of myocardial dystrophy
+-glomerulonephritis
+-endocarditis
+-pyelonephritis
+
+#What is the treatment for burns in the first hours against?
++anti-burn shock
+-against anemia
+-to hyperthermia
+-to hypothermia
+-to hyperglycemia
+
+#In burn disease, liver dysfunction is observed in blood biochemical analysis
++hyperbilirubinemia
+-increased nitrogen in the blood, hyperprotenuria
+-hyperproteinemia
+-hypoglycemia
+-cylindruria
+
+#What is the mechanism of anemia in burn disease?
++erythrocytes to autoimmune hemolysis
+-acute kidney failure
+-myocardiodystrophy
+-glomerulonephritis
+-endocarditis
+
+#It is used if burn shock is observed in burn disease
++60-90 mgprednisolone intravenously
+-strophanthin, digoxin
+-furosemide, lazix
+-disol, trisol, reopoliglyukin
+-reopoliglyukin
+
+#It is used for severe anemia in burns
++erythrocyte mass and serum
+-Leukoma
+-thrombomass
+-cryoprecipitate
+-albumin
+
+#It is used to relieve pain in burns
++promedol, omnopon
+-disol, trisol
+-reopoliglyukin
+-lactasol, sodium bicarbonate
+-prednisolone
+
+#Burn disease has a toxemic period
++with poisoning of the body from the breakdown products of protein
+-central nervous system disorders
+-bone marrow damage
+-heart disease
+-liver disease
+
+#It is used to maintain salt-water balance in burns
++disol, trisol, reopoliglyukin
+-promedol, omnopon
+-lactasol, sodium bicarbonate
+-strophanthin, digoxin
+-furosemide, lazix
+
+#It does not occur in burns
++aplasicanemia
+-formation of bubbles
+-tissue necrosis
+-skin redness
+-cardiovascular dysfunction
+
+#Burn disease causes changes in the core muscles
++in the form of myocardiodystrophy
+-pericarditis
+-hearty
+-endocarditis
+-pyelonephritis
+
+#The main liRS in the 1st period of burn disease is...
++ogric, humorous
+-plasma cooling
+-acidosis
+-lack of left ventricle
+-cachexia
+
+#A sign indicating the beginning of the 2nd period of the burn disease
++Caesar fever
+-Vomiting
+-swallowing
+-Acute lack of energy
+-convulsions
+
+#The main symptoms of burn disease during convalescence
++anemia and nephritis
+-UKT violation
+-acute liver and kidney failure
+-DVS syndrome
+-plasma cooling
+
+#Burn disease is followed by a period of toxemia...
++in the 2nd period of the disease
+-in the 1st period of the disease
+-in the 3rd period of the disease
+-in the 4th period of the disease
+-not observed
+
+#Complications of burn disease are considered
++zotiljam
+-polycystosis
+-hypertension
+-hypokinesia
+-dystonia
+
+ #Burns are divided into several degrees
++4
+-5
+-2
+-3
+-1
+
+#Not observed during burn toxemia:
++cachexia
+-intoxication
+-fever
+-pneumonia
+-kidney failure
+
+#Not used in the treatment of burn toxemia:
++6-mercoptopurine
+-Reopoliglyukin
+-Hemodez
+-Lactosol
+-Glucose
+
+#Not observed during burn shock:
++nosebleed
+-O'BE
+-bilirubinemia
+-azotemia
+-leukocytosis
+
+#is prescribed to the patient when vomiting continues without interruption
++disol, trisol, chlorosol, sterukal
+-riboxin, ATF
+-digoxin, strophanthin
+-panangin, potassium chloride
+-calcichlor
+
+#Cases where intensive treatment procedures are not required
++minor body injury
+-seizure
+-bleeding from internal organs
+-a state of shock
+-acute liver failure
+
+#Changes in the respiratory system in closed chest injury
++pneumonia, emphysema, hemorrhage, pleurisy
+-pneumosclerosis
+-brAcute readiation sicknesshitis, brAcute readiation sicknesshiolitis
+-pneumothorax
+-there is no change in the respiratory system
+
+#Changes in the cardiovascular system in closed chest injury
++heart rhythm and conduction disturbances, rupture of the myocardium
+-there is no change in the cardiovascular system
+-aneurysm, pericarditis
+-neurocirculatory dystonia
+-myocarditis, endocarditis
+
+#It is used in the treatment of severe leukopenia
++leukoma
+-thrombomass
+-freshly washed plasma
+-antihistamines
+-immunoglobulins
+
+#Mezaton dose
++1%-1ml
+-1%-5 ml
+-10%-1 ml
+-1%-10 ml
+-5%-1 ml
+
+#Methyl alcohol poisoning is not observed:
++piRS spots on the skin
+-druRSenness
+-vision impairment
+-paralysis and paresis
+-unstoppable vomiting
+
+#Not observed in methyl alcohol poisoning:
++splenomegaly
+-druRSenness
+-deafness
+-daily nausea, vomiting
+-severe headache
+
+#Methyl alcohol poisoning is not used:
++plasma burn
+-forced diuresis
+-hemodialysis
+-washing the stomach
+-ethanol
+
+#What antidote is used for methyl alcohol poisoning
++5% liuglycoliammonium solution
+-1% sodium nitrate
+-10% calcium
+-5% linalorphine
+-5% ammonium carbonate
+
+#What antidote is used for poisoning with copper and its salts
++5% ammonium carbonate pickling
+-5% carbon dioxide ammonium
+-1% sodium nitrate
+-10% calcite
+-5% nalorphine
+
+#What antidote is used for poisoning with mishak
++10% calcitetacin solution
+-5% nalorphine
+-5% ammonium carbonate
+-5% carbon dioxide ammonium
+-1% sodium nitrate
+
+#Volume of first medical aid in closed brain injury
++dehydration, antibiotic, anti-vomiting, anti-strain drugs
+-detoxification, drugs
+-anti-stress, drugs
+-no help will be provided, it will be sent to OmedB
+-urine drivers, psychotropic drugs
+
+#Changes in the respiratory system in closed brain injury
++asphyxia, hemorrhage, bonxia inflammation, acute emphysema
+-pneumosclerosis, brAcute readiation sicknesshitis
+-chronic brAcute readiation sicknesshitis, pneumonia
+-there is no change in the respiratory system
+-respiratory rhythm disorder
+
+#What antidote is used for poisoning with morphine and promedol
++5% linalorfineritma
+-5% ammonium carbonate
+-5% liucleic acid ammonium
+-1% sodium nitrate
+-10% calcium
+
+#Determine the dose of morphine solution
++1%-1 ml
+-10%-1 ml
+-1%-10 ml
+-5%-1 ml
+-1%-5 ml
+
+#Asthma is not included in diseases of organs and organs
++arthritis
+-atelectasis
+-zotiljams
+-bleeding
+-pneumonia
+
+#Find the sign of respiratory disorders
++all right
+-participation of auxiliary muscles in breathing
+-mandatory condition
+-cyanosis
+-stridor
+
+#Indicate the situation in which resuscitation measures are required from respiratory organs
++acute shortness of breath and emphysema
+-acute kidney failure
+-acute heart failure
+-acute liver failure
+-seizures
+
+#Does not include necessary medical care to improve respiratory function
++regulate kidney function
+-removal of foreign bodies
+-elimination of brAcute readiation sicknesshial congestion
+-open the airways
+-cleaning from slime
+
+#Determine the dose of noradrenaline
++0.2%-2ml
+-0.2%-10ml
+-0.4%-2ml
+-2%-2ml
+-0.6%-2ml
+
+#Includes 126 radiation sickness units
++gray
+-x-ray
+-milligrams
+-microgram
+-mmol
+
+#Radiation sickness does not include:
++incubation stage
+-the level of the primary reaction of the organism
+-hidden boss
+-the stage of escalation
+-recovery stage
+
+#In radiation sickness, what form does the disease take in the body that receives more than 20 grays of light?
++toxic and cerebral in appearance
+-intestinal epithelium damage
+-in the form of bone marrow
+-damage of blood producing organs
+-hypoplastic
+
+#In radiation sickness, which organ is damaged in the body that receives light from 1 to 10 degrees
++with bone marrow damage
+-blood producing organs
+-intestinal epithelium
+-sterebral
+-toxic
+
+#How does the disease progress in the body that has received light from 1 gray to 2 rays
++light
+-medium
+-heavy
+-julaogir
+-hidden
+
+#In the case of radiation sickness, which organ is damaged in the body exposed to light from 1 gray to 20 gray
++blood producing organs and intestinal epithelium
+-with bone marrow damage
+-sterebral
+-toxic
+-anemic
+
+#How does the disease progress in a body that receives light from 2 to 4 degrees in radiation sickness
++medium
+-heavy
+-light
+-hidden
+-very heavy
+
+#How does the disease progress in a body that receives light from 4 to 6 grays
++heavy
+-light
+-hidden
+-very heavy
+-medium
+
+#In case of radiation sickness, how does the disease progress in the body that receives more than  grays of light
++very heavy
+-hidden
+-light
+-medium
+-medium heavy
+
+#It is used as an antihemorrhagic therapy in radiation sickness, except for the following
++thrombomass
+-calcium preparations
+-Vikasol
+-amiAcute readiation sicknessaproic acid
+-disinone
+
+#The following syndrome is not observed in radiation diseases:
++hyperplastic
+-hematological
+-hemorrhagic
+-oropharyngeal
+-changes in immunobiological reactivity
+
+#Ionizing radiation dose in mild radiation sickness
++1-2 Gray
+-4-6 Grey
+-6-10 Gray
+-10-20 Gray
+-20-30 Gray
+
+#Ionizing radiation dose in severe radiation sickness
++4-6 Gray
+-1-2 Grey
+-2-4 Gray
+-6-8 Gray
+-8-10 Gray
+
+#Ionizing beam dose in moderate radiation sickness
++2-4 Gray
+-1-2 Grey
+-6-8 Gray
+-4-6 gray
+-8-10 Gray
+
+#Ionizing radiation dose in the most severe degree of radiation sickness
++6-10 Gray
+-1-2 Grey
+-5-6 Gray
+-3-4 Gray
+-2-3 Grey
+
+#It is not determined from which factor the body can recover after radiation
++which gender they belong to
+-the number of undamaged stem cells
+-the amount of ionizing radiation
+-burden of accompanying damage
+-load with complications
+
+#The recovery of the organism after radiation is not determined
++which gender they belong to
+-burden with complications
+-the amount of ionizing radiation
+-burden of accompanying damage
+-the number of undamaged core cells
+
+#It is not used in the treatment of lesions with chronic radiation sickness:
++immuno depressants
+-antibiotics
+-erythrocyte mass
+-plasma
+-oxyl preparations
+
+#is not used in the treatment of lesions with TNC:
++cytostatics
+-oxyl preparations
+-husband. Mass
+-thrombomass
+-antibiotics
+
+#Hemorrhagic syndrome in radiation injuries is not based on which factor:
++darkening of the blood
+-depth of bone marrow damage
+-changes in plasma coagulation factors
+-disruption of vascular wall permeability
+-thrombocytopenia
+
+#It is not important in the pathogenesis of bleeding in radiation injuries...
++infectious factor
+-increased permeability of blood vessels
+-thrombocytopenia
+-microcirculatory disorder
+-humoral factor (serotoninpenia)
+
+#Clinical symptoms of damage to the digestive tract are not included in radiation injuries
++pain radiating to the back
+-disappointment, return
+-pain on palpation in the intestines
+-abdominal swelling
+-liquid waste
+
+#Indicate the situation in which resuscitation measures are required from the digestive organs
++severe abdominal pain and gastrointestinal paralysis
+-acute heart failure and myocardial infarction
+-seizures
+-acute liver failure
+-Acute command deficiency
+
+#Severe enteritis and dehydration of the body are characteristic of what type of radiation sickness
++intestinal form
+-bone marrow
+-toxic
+-sterebral
+-severity level
+
+#Does not include paiRSillers
++aminazine
+-morphine
+-promedol
+-omniphone
+-droperidol
+
+#It is used to expel toxic substances absorbed into the body
++all
+-hemodialysis
+-increasing urination
+-peritoneal dialysis
+-hemosorption
+
+#What organs do neutrons mainly damage in the body?
++hematopoietic tissues and gastrointestinal mucosa
+-with bone marrow damage
+-sterebral
+-toxic
+-anemic
+
+#What factor is not characteristic of the weakening of the immuno-biological activity of the organism
++production of antibodies in large quantities
+-lymphopenia
+-reduction in the production of antibodies
+-decrease in blood production
+-decreasing the phagocytic activity of leukocytes
+
+#The weakening of the immunobiological activity of the body is not based on any factor
++production of antibodies in large quantities
+-decreasing the phagocytic activity of leukocytes
+-decrease in the production of antibodies
+-decrease in blood production
+-lymphopenia
+
+#What causes the weakening of the immunobiological activity of the body
++to a hyperactive state
+-to angina
+-to stomatitis
+-to pneumonia
+-to ulcerative necrotic enterocolitis
+
+#What causes the weakening of the body's immunobiological activity
+to hyperactivity
+-to stomatitis
+-to ulcerative necrotic enterocolitis
+-to pneumonia
+-to angina
+
+#Not typical for pneumo-and hemothorax:
++rapid reddening of the skin and mucous membranes
+-chest pain
+-panting
+-cyanosis
+-shock
+
+#Pneumothorax...
++pleural cavity connection with external air
+-bleeding into the pleura
+-abscess
+-pleurisy
+-empyema
+
+#Release dose of prednisolone solution
++30 mg
+-60 mg
+-90 mg
+-5 mg
+-100 mg
+
+#Promedol dosage and administration
++2%-1 ml, t/o, t/i
+-20%-1 ml, t/i
+-2%-10 ml, t/o
+-2%-5 ml, m/o
+-12%-1 ml, t/o
+
+#The clinical manifestation of radiation injuries is not characteristic of any factor
+to the +alimentary factor
+-character of impact (equal, unequal, local
+-dose of ionizing radiation
+-duration of exposure to ionizing radiation
+-a type of ionizing radiation
+
+#The clinical manifestation of radiation injuries does not arise from any factors
++feeding
+-a type of ionizing radiation
+-dose of ionizing radiation
+-duration of exposure to ionizing radiation
+-character of impact (equal, unequal, local
+
+#Circumstances in which resuscitation measures are not required
++minor leg injury
+-acute heart failure
+-acute blood vessel insufficiency
+-acute respiratory failure
+-acute kidney failure
+
+#Not included in the general symptoms of sepsis
++hypothermia
+-management
+-copying
+-hyperthermia
+-tachycardia
+
+#Clinical presentation of the septic period
++microbes develop in the burnt part
+-bone marrow damage
+-a lot of plasma is lost
+-severe pain
+-hypothermia
+
+#What antidote is used for poisoning with zinc acid
++1% sodium nitrate solution
+-10% calcium
+-5% linalorphine
+-5% ammonium carbonate
+-5% carbon dioxide ammonium
+
+#is not prescribed in the treatment of SRS:
++cyclophosphane
+-calcium gluconate
+-ATF
+-anabolic hormones
+-vitamins
+
+#is not recommended in the treatment of SRS
++cytostatics
+-vitamin therapy
+-metabolism correctors
+-antibacterial therapy
+-replacement therapy
+
+#The 1st level of SRS is characterized by:
++leucocytopenia, lymphocytosis
+-agranulocytosis
+-leukocytosis
+-organic compounds
+-thrombocytosis
+
+#are characterized in the 2nd level of SRS:
++functional damage of organs and tissues
+-significant dystrophic changes
+-thrombocytosis
+-leukocytosis
+-erythrocytosis
+
+#In the 3rd stage of SRS, hematopoiesis is not monitored by indicators
++eosinophilia
+-granulocytopenia
+-absolute lymphopenia
+-thrombocytopenia
+-hypochromanemia
+
+#is characteristic of SRSningengildarajasiuch
++asthenoneurotic syndrome
+-agranulocytosis
+-leukocytosis
+-thrombocytosis
+-organic changes of internal organs and tissues
+
+#is observed in the peripheral blood at a mild level of SRS:
++all indicators are at the lower limit of the norm
+-pancytosis
+-leukocytosis
+-monocytosis
+-eosinophilia
+
+#mild levels of SRS are observed in peripheral blood:
++all indicators are at the lower limit of the norm
+-pancytosis
+-leukocytosis
+-monocytosis
+-eosinophilia
+
+ #Characteristic of the passage of SRS:
++CNC and bone apparatus function changes
+-Disruption of bone support apparatus
+-Polyuria
+-Morfan's syndrome
+-Blast crisis
+
+#The hematological characteristics of the severe level of SRS are as follows:
++absolute lymphopenialeukopenia
+-leukocytosis with neutrophilic left shift
+-lymphocytosis
+-hypochromanemia
+-eosinophilia
+
+#The pathogenesis of SRS is not related
++infectious factor
+-organism radiation
+-water radiolysis
+-bone marrow damage
+-metabolic disorder
+
+#is typical for the middle level of SRS:
+Visible changes in internal organs and tissues
+-leukocytosis
+-euthyroid goiter
+-basophilia
+-blindness
+
+#The middle level of SRS is not characterized:
++activation of bone marrow
+-damage to the nervous system
+-dysfunction of internal organs
+-with biliary dystrophic changes
+-with a decrease in blood production
+
+#is not typical for the middle class of SRS
++bone marrow activation
+-with the fall of blood clots
+-dysfunction of internal organs
+-with biliary dystrophic changes
+-damage to the nervous system
+
+#Dose of strophantinerite mas
++0.05%-1 ml
+-0.002%-1 ml
+-0.004%-1 ml
+-0.005%-10 ml
+-0.005%-5 ml
+
+#The etiology of Sudorgi syndrome is not considered:
++spasikogreeks in Corinth
+-infection and intoxication
+-trauma
+-hypoxia
+-acidosis
+
+#is not used in the treatment of sudorgi syndrome:
++oxygen inhalation
+-lytic mixture (2% diphenhydramine 2ml, magnesium sulfate 25% 10ml, aminazine 25% 2ml)
+-seduksenv/i
+-barbiturates
+-strophanthine
+
+#Several stages of chronic kidney disease are different
++three
+-push
+-five
+There is no period
+-two
+
+#Instructions for bone marrow transplant:
++extreme level of radiation
+-hepatosplenomegaly
+-hemorrhagic syndrome
+-Lack of cargo
+-Shock
+
+#Stages of providing medical care to injured persons in need of therapeutic services
++all correct
+-battalion medical center
+-regimental medical center
+-battlefield
+-special medical battalion and hospital
+
+#It does not include the stages of providing medical care to patients in need of therapy services
++village medical center
+-battalion medical center
+-regimental medical center
+-special medical battalion
+-hospital
+
+#It is not observed in the peripheral blood during the rest period
++monocytosis
+-progressive neutropenia
+-thrombocytopenia
+-lymphocytopenia
+-moAcute readiation sicknessytopenia
+
+#The radiation unit of living tissues is taken as...
++gray
+-x-ray
+-curie
+-sievert
+-gamma
+
+#Clinical presentation of the toxemic period
++all are correct
+-in many plasma cells
+-severe pain
+-hypothermia
+-tachycardia
+
+#Observed in toxic pulmonary edema:
++metabolicacidosis
+-metabolic alkalosis
+-sideropenic syndrome
+-renal liver failure
+-splenomegaly
+
+#It is used in the treatment of low platelets
++thrombotic mass
+-leukoid mass
+-erythrocyte mass
+-antihistamines
+-immunoglobulins
+
+#How long is the recovery period?
+After +1-1.5 months
+-2-2.5 months
+-4-4.5 months
+-5-6 months
+-1 year
+
+#It is not prescribed to improve salt-water balance
++prednisolone
+-trisol
+-disol
+-sodium chloride 0.9% solution
+-lactasol
+
+#Nonstop vomiting, memory loss, and brain tumor symptoms are characteristic of which type of radiation sickness
++toxicasterebral type
+-intestinal form
+-bone marrow
+-middle level
+-light level
+
+#It is not used in the treatment of carbon monoxide poisoning:
++iron preparations
+-artificial respiration
+-giving oxygen
+-hyperbaric oxygenation
+-blood burns
+
+#Local symptoms in the middle-aged clinic of long-term depression
++plasma loss, OBE
+-swelling, bruising and cooling of the skin
+-hypertensive disease
+-hyperthermia
+-chronic kidney failure
+
+#Local symptoms in the clinic of the early period of prolonged crushing
++swelling, bruising and cooling of the skin
+-tachycardia, hypotension, plasma loss
+-hypertensive old age
+-hyperthermia
+-chronic kidney failure
+
+#General symptoms of chronic depression in the clinic of the early period
++tachycardia, hypotension
+-hypertensive disease
+-swelling, bruising and cooling of the skin
+-chronic kidney failure
+-hyperthermia
+
+#Does not include periods of prolonged depression
++terminal
+-early
+-It's late
+-medium
+-It's late
+
+#Does not include long crush levels
++repetition
+-medium
+-heavy
+-heavy
+-light
+
+#In the mild form of prolonged crushing, the soft tissues are stuck in a hard shell for several hours
+For +4 hours
+-6-8 hours
+-More than 6-8 hours
+-6 hours
+-1 month
+
+#In the course of long oppression, it is divided into several periods
++3
+-5
+-2
+-1
+-4
+
+#Indicate the periods of remission in the chronic depression clinic
++early, middle and late
+-acute, chronic
+-remission, relapse
+-repetitive
+-terminal
+
+#How many days does the early period last in the clinic of chronic depression
+It lasts 2-3 days
+-5-6 days
+-10-12 days
+-20-30 days
+-2-3 years
+
+#In the clinic, chronic compression is divided into several types depending on the degree of soft tissue compression
++4
+-3
+-2
+-1
+-5
+
+#How many hours do soft tissues remain under weight in the severe form of long-term crushing?
++6-8 hours
+-4 hours
+-1 month
+-6 hours
+-More than 6-8 hours
+
+#Synonym of long crush condition
++Crash syndrome
+-nephrotic syndrome
+-hepatolienal syndrome
+-hemorrhagic syndrome
+-neurotic syndrome
+
+#How many hours do soft tissues remain under the weight in the medium-severe type of long-term crushing condition?
+for +6 hours
+-More than 6-8 hours
+-4 hours
+-1 month
+-6 -8 hours
+
+#How many hours do soft tissues remain under weight in severe form of prolonged crushing?
+More than +6-8 hours
+-4 hours
+-1 month
+-6 hours
+-6-8 hours
+
+#In the case of long-term depression, staged treatment is not indicated
++potassium preparations and vitamins
+-blockade with novocaine
+-improves cardiovascular activity
+-immobilization
+-emergency help
+
+#Principles of treatment in chronic depression
++all
+-immobilization
+-blockade with novocaine
+-heart restorer
+-against shock
+
+#A sign of acute kidney failure in a long crushing state
++myoglobinuria and azotemia
+-proteinuria
+-hemoglobinuria
+-oliguria
+-isosthenuria
+
+#What are the different symptoms of prolonged depression?
++general and local
+-central and peripheral
+-focal and diffuse
+-constant and early
+-expanded
+
+#What factor does the long-term oppression depend on in the clinic of the middle period
++to the duration of the crush
+-partial crushing of the body
+-additional damage
+-injuries of vital organs
+-violation of electrolyte balance
+
+#It is observed in third degree burns
++tissue necrosis
+-skin redness
+-formation of blisters
+-cyanosis
+-blood transfusion
+
+#ACUTE READIATION SICKNESS is not observed in the peripheral blood during the exacerbation phase
++leukocytosis
+-thrombocytopenia
+-lymphopenia
+-bone marrow hypoplasia
+-leukopenia
+
+#Acute readiation sickness is not observed in the peripheral blood and marrow during the exacerbation phase
++leukocytosis
+-leukopenia
+-lymphopenia
+-bone marrow hypoplasia
+-thrombocytopenia
+
+#Acute readiation sickness is observed in peripheral blood in the period of improvement
++pancytopenia
+-monocytosis
+-lymphocytosis
+-basophilia
+-eosinophilia
+
+#Acute radiation sickness is observed in the peripheral blood during the primary reaction...
++mild leukocytopenia
+-reticulocytosis
+-thrombocytosis
+-eosinophilia
+-basophilia
+
+#What is not included in the clinical presentation of O'RS agemorrhagic syndrome
++cyanotic color of the face
+-bleeding gums
+-nosebleeds
+-bleeding from the uterus
+-teriosi blood burns
+
+#There are no reasons for intoxication in 225ACUTE RADIATION SICKNESS
++sideropenia
+-indirect effect of ionizing radiation
+-intoxication with radio toxins
+-metabolic disorder
+-acidosis
+
+#is not included in the causes of intoxication in ACUTE RADIATION SICKNESS
++bleeding gums
+-acidosis
+-intoxication with radio toxins
+-metabolic disorder
+-indirect effect of ionizing radiation
+
+#Complications that can be expected in RS do not include:
+blood circulation
+-sepsis
+-pneumonia
+-gastrointestinal bleeding
+-uterine bleeding
+
+#What is not associated with damage to the digestive tract in RS
++viral infection
+-damage to the epithelium of the digestive tract
+-violation of secretory function
+-violation of motor function
+-violation of the pushing function
+
+#What is associated with damage to the digestive tract in NSCLC
++damage to the epithelium of the alimentary tract
+-viral infection
+-increased secretory function
+-chronic colitis
+-chronic kidney failure
+
+#Fever in RS is not based on any factors
++myocardial dystrophy
+-agranulocytosis
+-addition of infection
+-intoxication with radio toxins
+-activation of conditionally pathogenic flora
+
+#What are the factors that cause fever in RS?
++agranulocytosis and intoxication with radio toxins
+-hypervitaminosis
+-activation of immunity
+-hepatitis
+-weakening of conditionally pathogenic flora
+
+#The nature of vomiting in the mild degree of RS
++1 does not double
+-many times
+-can't stop
+-2-3 times
+-5-6 times
+
+#is not included in the complication of ACUTE RADIATION SICKNESS:
++Banti syndrome
+-pneumonia
+-sepsis
+-ulcer necrotic angina
+-ulcerative necrotic enterocolitis
+
+#is not considered as a complication of OCN
++hepatolienal syndrome
+-intestinal vaginosis
+-gastrointestinal bleeding
+-perforation of internal organs
+-Bleeding to the affected organs
+
+#A complication of RS is calculated
++pneumonia, sepsis
+-hepatolienal syndrome
+-Banti syndrome
+-chronic tonsillitis
+-chronic enterocolitis
+
+#does not include aggravation of ACUTE RADIATION SICKNESS:
++hepatolienal syndrome
+-burning of blood to essential organs
+-bleeding from the digestive tract
+-perforation of intestinal ulcers
+-intestinal invagination
+
+#In the period of recovery of RS is observed in leukoformula:
++shift more strongly to the left
+-leukemic disorder
+-eosinophil-basophilia association
+-lymphocytosis
+-monocytosis
+
+#The character of vomiting in the severe level of RS
++multiple times
+-one time
+-can't stop
+-not observed
+2-3 times
+
+#The pathogenesis of TNC is not liRSed:
++infection
+-the effect of radiation on biomolecules
+-water radiolysis
+-marrow damage
+-metabolism disorder
+
+#is not specific for the pathogenesis of TNC
++goAcute readiation sicknessoccal infection
+-metabolism disorder
+-marrow damage
+-water radiolysis
+-the effect of radiation on biomolecules
+
+#In the period of recovery of RS, there is no gradual increase of the cauline-shaped element in the peripheral blood
++blasts
+-lymphocytes
+-granulocytes
+-monocytes
+-platelets
+
+#The character of vomiting in the extreme level of ACUTE RADIATION SICKNESS
++can't stop
+-one time
+-many times
+-it doesn't
+-2-3 times
+
+Does not cause pneumonia
++hot switch
+-a lot of blood loss
+-immune deficiency
+-cold snap
+-chronic lung diseases
+
+#Pulmonary edema cannot be caused by:
++chronic gastritis
+-croupous pneumonia
+-heart muscle weakness
+-inhalation of toxic substances
+-rapid rise in blood pressure
+
+#May cause pulmonary edema
++acute left ventricular failure
+-I am chronically ill
+-myocardio dystrophy
+-increase blood pressure
+-toxic substances
+
+#Which drugs are not used in pulmonary edema
++promedol
+-cordiamine
+-camphor
+-strophanthine
+-penicillin
+
+#It is not used to reduce the tension in the small blood circulation in pulmonary edema
++blood transfusion
+-diuretics
+-controlled hypotonia (pentalgin)
+-patient's condition of swallowing
+-intravenous euphyllin
+
+#Not used in pulmonary edema:
++cyclophosphane
+-promedol
+-strophanthine
+-oxygen
+-lazix
+
+#is not used in the treatment of pulmonary edema:
++aspirin prednisolone
+-drugs
+-lung artificial ventilation
+-from the upper respiratory tract
+-aspiration of liquids
+
+#is used in the treatment of pulmonary edema:
+from the upper respiratory tract
+-fluid aspiration
+-promedol
+-cyclophosphane
+-aspirin
+-bleeding
+
+#Fever in RS is not based on any factors
++myocardial dystrophy
+-agranulocytosis
+-addition of infection
+-intoxication with radio toxins
+-activation of conditionally pathogenic flora
+
+#What are the factors that cause fever in RS?
++agranulocytosis and intoxication with radio toxins
+-hypervitaminosis
+-activation of immunity
+-hepatitis
+-weakening of conditionally pathogenic flora
+
+#The nature of vomiting in the mild degree of RS
++1 does not double
+-many times
+-can't stop
+-2-3 times
+-5-6 times
+
+#is not a complication of ACUTE RADIATION SICKNESS:
++Banti syndrome
+-pneumonia
+-sepsis
+-wound necrotic only
+-ulcerative necrotic enterocolitis
+
+#is not considered to be a complication of OCN
++hepatolienal syndrome
+-intestinal vaginosis
+-gastrointestinal bleeding
+-perforation of internal organs
+-Bleeding to the affected organs
+
+#A complication of 256 RS is calculated
++pneumonia, sepsis
+-hepatolienal syndrome
+-Banti syndrome
+-chroniclithiasis
+-chronic enterocolitis
+
+#does not include the aggravation of ACUTE RADIATION SICKNESS:
++hepatolienal syndrome
+-burning of blood to essential organs
+-bleeding from the digestive tract
+-perforation of intestinal ulcers
+-intestinal invagination
+
+#is observed in the leukoformula during the recovery period of RS:
++shift strongly to the left
+-leukemic disorder
+-eosinophil-basophilia association
+-lymphocytosis
+-monocytosis
+
+#The character of vomiting in the severe level of RS
++multiple times
+-one time
+-can't stop
+-not observed
+-2-3 times
+
+#The pathogenesis of TNC is not liRSed:
++infection
+-the effect of radiation on biomolecules
+-water radiolysis
+-marrow damage
+-metabolism disorder
+
+#is not specific for the pathogenesis of TNC
++goAcute readiation sicknessoccal infection
+-metabolism disorder
+-marrow damage
+-subradiolysis
+-radiation effect on biomolecules
+
+#In the period of RS recovery, there is no gradual increase of the caudate-shaped element in the peripheral blood
++blasts
+-lymphocytes
+-granulocytes
+-moAcute readiation sicknessytes
+-platelets
+#The character of vomiting in the extreme level of ACUTE RADIATION SICKNESS
++can't stop
+-one time
+-many times
+-it doesn't
+-2-3 times
+
+#Does not cause pneumonia
++heating
+-profuse blood loss
+-immunodeficiency
+-cooling
+-chronic lung diseases
+
+#Pulmonary edema cannot be caused by:
++chronic gastritis
+-croupopneumonia
+-weakness of the heart muscles
+-toxic substance inhalation
+-lowering of blood pressure
+
+#May cause pulmonary edema
++acute left ventricular failure
+-suruRSalizotiljam
+-myocardiodystrophy
+-increased blood pressure
+-toxic substances
+
+#Which drugs are not used in pulmonary edema
++promedol
+-cordiamine
+-camphor
+-strophanthine
+-penicillin
+
+#It is not used in reducing the tension in the small blood circulation in pulmonary edema
++blood transfusion
+-diuretics
+-controlled hypotonia (pentalgin)
+-the condition of the patient
+-tomirichigaeufillin
+
+#Not used in pulmonary edema:
++cyclophosphane
+-promedol
+-strophanthine
+-oxygen
+-lazix
+
+#is not used in the treatment of pulmonary edema:
++aspirin
+-prednisolone
+-drugs
+-pulmonary artificial ventilation
+-aspiration of fluids from the upper extremities
+
+#is used in the treatment of pulmonary edema:
+from the upper respiratory tract
+-fluid aspiration
+-promedol
+-cyclophosphane
+-aspirin
+
+#RS is not observed during the primary reaction:
++sepsis
+-Vomiting
+-leukocytosis
+-headache
+-terigiperemia
+
+#Not used in the treatment of pneumonia in the injured:
++therapeutic plasmaphoresis
+-antibiotic
+-immuAcute readiation sicknessorrector
+-vitamins
+-expectorants
+
+#What factor is not associated with the pathogenesis of poisoning:
++ventilation factor
+-the effect of toxic substances
+-CNC disorders
+-hypoxia
+-metabolic disorder
+
+#Which organs and systems are deeply damaged under the influence of ionized radiation
++has a high mitotic index
+-subtractive organs
+-hearing organs
+-mature cells of hemopoiesis
+-musculoskeletal system
+
+#Mixed radiation sickness is not in the acute phase:
++hepato splenomegaly
+-hemorrhage
+-infection
+-anemia
+-leukopenia
+
+#It is not typical for the period of acute light sickness
++incubation period
+-primary reaction time
+-recovery period
+-the development period
+-hidden
+
+#The ability of the organism to recover after radiation does not depend on any factor
++which gender they belong to
+-the number of undamaged core cells
+-the amount of ionizing radiation
+-the presence of accompanying lesions
+-there are complications
+
+#is not used in the treatment of sudorgi syndrome:
++hemotransfusion
+-restoration of airway permeability and oxygen inhalation
+-reducing the hydrophilicity of the brain
+-anti-sudorgi therapy
+-miamimetaboliks
+
+#Carbon monoxide poisoning is not observed:
++blood transfusion
+-coma
+-collapse
+-sepsis
+-disappointment and vomiting
+
+#What is observed first in carbon monoxide poisoning
++hypoxic
+-syndrome
+-splenomegaly
+-hemorrhagic syndrome
+-embolism
+-agranulocytosis
+
+#What is not included in the clinical presentation of the hemorrhagic syndrome in TNC
++facial cyanotic color
+-bleeding gums
+-nosebleed
+-uterine bleeding
+-teriosic burns
+
+#The complications that can be expected in the initial period of RS are not included:
+blood circulation
+-sepsis
+-pneumonia
+-gastrointestinal bleeding
+-uterine bleeding
+
+#The nature of vomiting at the middle level of ACUTE RADIATION SICKNESS
++2-3 times
+-1 time
+-can't stop
+-it doesn't
+-many times
+
+#Excludes support for pulmonary hemorrhage:
++intravenous hemodesis drip
+-calcium chloride/i
+-m/ivikasol 2.0
+-disinone
+-E-amiAcute readiation sicknessaproic acid
+
+#Does not apply to the pathogenesis of acute radiation sickness:
++metabolic alkalosis
+-cellular hydrosidedestruction
+-subradiolysis
+-electron excitation of biomolecules
+-metabolism
+
+#Life-threatening conditions do not include:
++intestinal spasm
+-lack of sharpness
+-pneumonia
+-acute respiratory failure
+-acute poisoning
+
+#Not observed in chlorophos poisoning :
++blindness
+-headache
+-pneumonia
+-solevation
+-disappointment, return
+
+#It is not used in the correction of blood in the general circulation in shock:
++iron preparations
+-transfusion therapy
+-substitute protein preparations
+-gelatinol
+-hemodesis
+
+#What does the phrase "burning disease" mean
++general disease of the body
+-specific illness
+-heartiness
+-lung disease
+-liver disease
+
+#Apricot preparations are used to treat asthma
++euphyllin and GKSs
+-α-adrenoblockers
+-N2-blockers
+-cardiac glycosides
+-calcium preparations
+
+#Local symptoms in the clinic of the early period of prolonged crush
++swelling, bruising and cooling of the skin
+-tachycardia, hypotension, plasma loss
+-hypertensive disease
+-hyperthermia
+-chronic kidney failure
+
+#General symptoms of long depression in the early period
++tachycardia, hypotension
+-hypertensive disease
+-swelling, bruising and cooling of the skin
+-chronic kidney failure
+-hyperthermia
+
+#Does not include periods of prolonged depression
++terminal
+-early
+-It's late
+-medium
+-It's late
+
+#Does not include long crush levels
++repetition
+-medium
+-heavy
+-heavy
+-light
+
+#In the case of prolonged crushing, the soft tissues freeze under weight for several hours
+in +4 hours
+-6-8 hours
+-More than 6-8 hours
+-6 hours
+-1 month
+
+#How many periods are divided in the course of long oppression
++3
+-5
+-2
+-1
+-4
+
+#Show periods of remission in the clinic of prolonged depression
++early, mid-late
+-acute, chronic
+-remission, relapse
+-repetitive
+-terminal
+
+#How many days does the early period last in the clinic of chronic depression
+It lasts 2-3 days
+-5-6 days
+-10-12 days
+-20-30 days
+-2-3 years
+
+#Long-term crush condition is divided into several types depending on the degree of soft tissue crush in the clinic
++4
+-3
+-2
+-1
+-5
+
+#How many hours do the soft tissues remain under weight in the severe form of prolonged crushing?
++6-8 hours
+-4 hours
+-1 month
+-6 hours
+-More than 6-8 hours
+
+#Synonym of prolonged crush
++Crash syndrome
+-nephrotic syndrome
+-hepatolienal syndrome
+-hemorrhagic syndrome
+-neurotic syndrome
+
+305 In the case of long-term depression, staged treatment is not indicated
++potassium preparations and vitamins
+-blockade with novocaine
+-improves cardiovascular activity
+-immobilization
++calsium sodium
+
+#A sign of acute kidney failure in a long-term crushing condition
++myoglobinuria and azotemia
+-proteinuria
+-hemoglobinuria
++oliguria
+-isosthenuria
+
+#What are the symptoms of prolonged depression?
++general and local
+-central and peripheral
+-focal and diffuse
+-constant and early
++general
+
+#The condition of long depression depends on what factor the clinic of the middle period
++to the duration of the crush
+-partial crushing of the body
+-additional damage
+-injuries of vital organs
++power of crush
+
+#Observed in third degree burns
++tissue necrosis
+-skin redness
+-formation of blisters
++skin necrosis
+-blood transfusion
+
+#Acute radiation sickness is not observed in the peripheral blood during the exacerbation phase
++leukocytosis
+-thrombocytopenia
++lymphocytosis
+-bone marrow hypoplasia
+-leukopenia
+
+#Oncology is observed in the peripheral blood in the period of improvement
++pancytopenia
+-monocytosis
++lymphopenia
+-basophilia
+-eosinophilia
+
+#The causes of intoxication in acute radiation sickness are not mentioned
++sideropenia
+-indirect effect of ionizing radiation
+-intoxication with radio toxins
+-metabolic disorder
++alcolosis
+
+#acute radiation sickness is not included in the causes of intoxication
++bleeding gums
++alcolosis
+-intoxication with radio toxins
+-metabolic disorder
+-indirect effect of ionizing radiation
+
+#Complications that can be expected in ARS do not include:
++hemorrhage
+-sepsis
+-pneumonia
+-bleeding from the digestive tract
+-bleeding from the uterus
+
+#Gastrointestinal tract damage in RS is not associated with what
++viral infection
+-damage to the epithelium of the digestive tract
+-violation of secretory function
++Bacterial infection
+-violation of the pushing function
+
+#What is associated with the damage to the digestive tract in RS
++damage to the epithelium of the alimentary tract
++Athrophy of epithelium
+-increased secretory function
+-chronic colitis
+-chronic kidney failure
+
+#and is observed as a serious complication in 4 degree burns
++pneumonia
+-bronchiectasis
+-myocarditis
++skin necrosis
+-pyelonephritis
+
+#What is not observed in gunshot wounds:
++hepatolienal syndrome
++viral infection
+-purulent resorptive fever
+-wound sepsis
+-losing weight from injury
+
+#Radiosensitivity of cells is directly proportional...
+to 
++mitotic activity
+-to the level of differentiation
++nuclear activity
+-whether or not there are inputs
+-toxogenic granularity
+
+#Characteristic of the peak period of acute radiation sickness:
++agranulocytosis
+-lymphocytosis
+-basophilia
++eosinophiliacytosis
+-monocytosis
+
+#What is not observed in the peripheral blood during the peak period of acute radiation sickness
++leukocytosis
+-leucocytopenia
+-anemia
++lymphocytosis
+-thrombocytopenia
+
+#Changes in the mouth in mixed radiation scores are observed depending on how much radiation is received
++5 gray
++5-10 gray
+-15 gray
+-20 gray
+-10 gray
+
+#Observed in first degree burns
++skin redness
+-formation of bubbles
+-tissue necrosis
++dyscomfort
+-blood transfusion
+
+#RS is not observed during the primary reaction:
++sepsis
++viral infection
+-leukocytosis
+-headache
+-terigiperemia
+
+#What is not prescribed in kidney diseases:
++folate acid inhibitors
+-antibiotics
++calsium sodium
+-desensitizing drugs
+-detoxifying drugs
+
+#Indicate the condition in which urgent resuscitation measures are required for kidney diseases
++acute renal failure and eclampsia
+-acute respiratory failure and pulmonary edema
+-acute liver failure
++eclampsia
+-acute heart failure and myocardial infarction
+
+#Not used in the treatment of kidney damage:
++cytostatics
+-detoxifiers
+-hepatotropes
++antiviral drugs
+-paiRSillers
+
+#In the 3rd stage of Chronic radiation sickness, hematopoiesis is not monitored by indicators
++eosinophilia
++granulocypenia
+-absolute lymphopenia
+-thrombocytopenia
+-hypochromanemia
+
+#ARS is characteristic of a mild level of Chronic radiation sickness
++asthenoneurotic syndrome
+-agranulocytosis
++leukopenia
+-thrombocytosis
+-organic changes of internal organs and tissues
+
+#is characteristic of the passage of Chronic radiation sickness:
++CNC and bone apparatus function changes
+-Disruption of bone support apparatus
++Joint pain
+-Morfan's syndrome
+-Blast crisis
+
+#The hematological characteristics of the severe level of Chronic radiation sickness are as follows:
++leukopenia with absolute lymphopenia
+-leukocytosis with neutrophilic left shift
++lymphopenia
+-hypochromanemia
+-eosinophilia
+
+#The pathogenesis of Chronic radiation sickness is not related
++infectious factor
+-organism radiation
+-viral factor
+-bone marrow damage
+-metabolic disorder
+
+#is typical for the middle level of Chronic radiation sickness:
++Visible changes in internal organs and tissues
++leukopenia
+-euthyroid goiter
+-basophilia
+-blindness
+
+#The middle level of Chronic radiation sickness is not characterized:
++activation of bone marrow
+-damage to the nervous system
+-dysfunction of internal organs
+-with biliary dystrophic changes
++with a increase in blood production
+
+#The etiology of tetanic syndrome is not considered:
++spastic greeks in Corinth
+-infection and intoxication
+-trauma
++walk
+-acidosis
+
+#is not used in the treatment of tetanic syndrome:
++oxygen inhalation
+-lytic mixture (2% diphenhydramine 2ml, magnesium sulfate 25% 10ml, aminazine 25% 2ml)
+-seduksenv/i
++antiviral drugs
+-strophanthine
+
+#Instructions for bone marrow transplant:
++extreme level of radiation
+-hepatosplenomegaly
+-hemorrhagic syndrome
+-Lack of cargo
++cancer
+-special medical battalion and hospital
+
+#Does not include the stages of providing medical care to patients in need of therapy
++village medical center
+-battalion medical center
+-regimental medical center
+-special medical battalion
+-City medical center
+
+#Not observed in peripheral blood during rest period of CHRS
++monocytosis
+-progressive neutropenia
++thrombocytocytosis
+-lymphocytopenia
+-monocytopenia
+
+#Observed in toxic pulmonary edema:
++metabolic acidosis
+-metabolic alkalosis
+-sideropenic syndrome
++pulmonary failure
+-splenomegaly
+
+#is not prescribed to improve salt-water balance
++prednisolone
+-trisol
++dexamethazone
+-sodium chloride 0.9% solution
+-lactasol
+
+#Not used in the treatment of carbon monoxide poisoning:
++iron preparations
+-artificial respiration
++calsium sodium
+-hyperbaric oxygenation
+-blood burns
+
+#Local symptoms in the middle-aged clinic of long crushing condition
++plasma loss, OBE
+-swelling, bruising and cooling of the skin
+-hypertensive disease
+-hyperthermia
++protein loss
+
+#Where are the wounded and sick in need of treatment sorted.
++battalion and separate battalion (OmedB) and hospitals
+-in a military field hospital
+-on the battlefield
+-cannot be sorted
+-special medical battalion
+
+#What type of anemia develops in injured people?
++posthemorrhagic
+-chronic iron deficiency
++Hypovolemic
+-sideropenic
+-hemolytic
+
+#What kind of heart damage is not observed in the injured:
++systemic carditis
+-endocarditis
++cancer
+-myocarditis
+-myocardial dystrophy
+
+#Not used in the treatment of pneumonia in the injured:
++folic acid
+-antibiotics
++calsium sodium
+-sulphocamphocaine
+-protein preparations
+
+#The main part of kidney damage in injured people is:
++nephritis (diffuse, triple)
++urinary tract infection
+-uric acid chloride diathesis
+-hypernephroma
+-lupus nephritis
+
+#The main causes of death in injured persons are not:
++leukopenia
++viral infection
+-anemia caused by injury
+-Malnutrition, hypovitaminosis
+
+#What is not included in the number of common syndromes in injured people:
++agranulocytosis
+-shock
++infection
+-purulent resorptive fever
+-wound sepsis
+
+#Purulent diseases of the lungs in injured people are not associated with what:
++agranulocytosis
+-infection of atelectasis
+-infection of the wound canal
+-foreign bodies in the lungs
++vomiting
+
+#A stroke can occur during the influence of the fox:
++contusion
++trauma
+-agranulocytosis
+-splenomegaly
+-increased body temperature
+
+#Pneumonias are not observed in any injuries of the body;
++skin and mucous membrane injuries
+-chest and head
+-legs and arms
+-belly
++extremity
+
+#Does not include immediate emergency medical care
++X-ray examination and blood analysis
++CT
+-release of poisons absorbed into the body
+-restoring the activity of the central nervous system
+-regulating liver function
+
+#Some organs and systems are deeply damaged under the influence of ionized radiation
++has a high mitotic index
++has a high nuclear activity
+-hearing organs
+-mature cells of hemopoiesis
+-musculoskeletal system
+
