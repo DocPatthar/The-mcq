@@ -1418,7 +1418,7 @@ For
 -terminal
 
 #How many days does the early period last in the clinic of chronic depression
-It lasts 2-3 days
++It lasts 2-3 days
 -5-6 days
 -10-12 days
 -20-30 days
