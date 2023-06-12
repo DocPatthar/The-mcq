@@ -1446,7 +1446,8 @@ For
 -neurotic syndrome
 
 #How many hours do soft tissues remain under the weight in the medium-severe type of long-term crushing condition?
-for +6 hours
+for 
++6 hours
 -More than 6-8 hours
 -4 hours
 -1 month
@@ -1551,7 +1552,7 @@ for +6 hours
 -indirect effect of ionizing radiation
 
 #Complications that can be expected in RS do not include:
-blood circulation
++blood circulation
 -sepsis
 -pneumonia
 -gastrointestinal bleeding
@@ -1632,7 +1633,7 @@ blood circulation
 -one time
 -can't stop
 -not observed
-2-3 times
+-2-3 times
 
 #The pathogenesis of TNC is not liRSed:
 +infection
@@ -1712,7 +1713,7 @@ Does not cause pneumonia
 -aspiration of liquids
 
 #is used in the treatment of pulmonary edema:
-from the upper respiratory tract
++from the upper respiratory tract
 -fluid aspiration
 -promedol
 -cyclophosphane
@@ -1859,7 +1860,7 @@ from the upper respiratory tract
 -aspiration of fluids from the upper extremities
 
 #is used in the treatment of pulmonary edema:
-from the upper respiratory tract
++from the upper respiratory tract
 -fluid aspiration
 -promedol
 -cyclophosphane
@@ -1944,7 +1945,7 @@ from the upper respiratory tract
 -teriosic burns
 
 #The complications that can be expected in the initial period of RS are not included:
-blood circulation
++blood circulation
 -sepsis
 -pneumonia
 -gastrointestinal bleeding
@@ -2035,7 +2036,7 @@ blood circulation
 -light
 
 #In the case of prolonged crushing, the soft tissues freeze under weight for several hours
-in +4 hours
++4 hours
 -6-8 hours
 -More than 6-8 hours
 -6 hours
@@ -2056,7 +2057,7 @@ in +4 hours
 -terminal
 
 #How many days does the early period last in the clinic of chronic depression
-It lasts 2-3 days
++It lasts 2-3 days
 -5-6 days
 -10-12 days
 -20-30 days
