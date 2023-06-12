@@ -376,7 +376,7 @@
 -to regulate the activity of internal organs
 
 #Does not include immediate emergency medical care
-X-ray examination and blood analysis
++X-ray examination and blood analysis
 -regulation of blood circulation
 -release of poisons absorbed into the body
 -restoring the activity of the central nervous system
@@ -390,7 +390,7 @@ X-ray examination and blood analysis
 -suppuration
 
 #Some organs and systems are deeply damaged under the influence of ionized radiation
-There is a high mitotic type
++There is a high mitotic type
 -subtractive organs
 -hearing organs
 -mature cells of hemopoiesis
