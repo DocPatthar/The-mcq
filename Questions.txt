@@ -362,7 +362,7 @@
 -belly
 
 #Does not include urgent medical care
-X-ray examination and blood analysis
++X-ray examination and blood analysis
 -improve breathing
 -release of poisons absorbed into the body
 -regulate kidney function
