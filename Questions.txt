@@ -2084,7 +2084,7 @@ for
 -hemorrhagic syndrome
 -neurotic syndrome
 
-305 In the case of long-term depression, staged treatment is not indicated
+#305 In the case of long-term depression, staged treatment is not indicated
 +potassium preparations and vitamins
 -blockade with novocaine
 -improves cardiovascular activity
