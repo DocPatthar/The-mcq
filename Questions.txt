@@ -1396,7 +1396,8 @@ There is no period
 -light
 
 #In the mild form of prolonged crushing, the soft tissues are stuck in a hard shell for several hours
-For +4 hours
+For
++4 hours
 -6-8 hours
 -More than 6-8 hours
 -6 hours
