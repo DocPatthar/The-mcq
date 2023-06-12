@@ -1228,7 +1228,7 @@ to the +alimentary factor
 -metabolic disorder
 
 #is typical for the middle level of SRS:
-Visible changes in internal organs and tissues
++Visible changes in internal organs and tissues
 -leukocytosis
 -euthyroid goiter
 -basophilia
@@ -1333,7 +1333,7 @@ There is no period
 -immunoglobulins
 
 #How long is the recovery period?
-After +1-1.5 months
++After +1-1.5 months
 -2-2.5 months
 -4-4.5 months
 -5-6 months
