@@ -1453,7 +1453,7 @@ for +6 hours
 -6 -8 hours
 
 #How many hours do soft tissues remain under weight in severe form of prolonged crushing?
-More than +6-8 hours
++6-8 hours
 -4 hours
 -1 month
 -6 hours
